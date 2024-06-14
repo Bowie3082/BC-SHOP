@@ -1,0 +1,20 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1b1b1b; 
+    color: rgb(255, 255, 255); /* สีข้อความใน navbar */
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 40px 10px 65px;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #337fe2;
+  }

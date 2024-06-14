@@ -1,0 +1,35 @@
+.head{
+  text-align: center;
+}
+.headAdd{
+  padding: 0px 0px 0px 70px;
+}
+.btn{
+  text-align: center;
+  padding: 8px;
+  margin: 0px 0px 0px 20px;
+
+}
+body {
+    margin: 20px;
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  
+  .container {
+    width: 400px;
+    margin: 20px auto ; 
+    border: 1px solid #e7eaeb;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    padding: 80px;
+  }
+form input[type="text"]{
+    width: 280px;
+}
+form input[type="password"]{
+    width: 280px;
+}
+
+  

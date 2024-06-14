@@ -1,0 +1,30 @@
+
+
+.payment-form {
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.account-details {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
